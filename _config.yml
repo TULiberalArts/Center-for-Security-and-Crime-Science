@@ -5,6 +5,8 @@ title: Center-for-Security-and-Crime-Science
 baseurl: /center-for-security-and-crime-science
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/center-for-security-and-crime-science
 
 
 # Program Information
