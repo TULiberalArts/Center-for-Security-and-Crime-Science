@@ -143,6 +143,6 @@ ___
 A software that originates with the relatively recent discovery of the near repeat phenomenon in burglary patterns.This communicability of risk to nearby locations for a short amount of time raises the possibility that other crime types may also suffer from a near repeat spatio-temporal pattern of behavior. Learn more about the [Near Repeat Calculator](https://liberalarts.temple.edu/sites/liberalarts/files/Near%20Repeat%20Calculator.pdf) (pdf) and download for free. 
 
 ## Additional Research Projects and Resources:
-- [The Impact of Philadelphia’s Public CCTV Cameras: PRELIMINARY FINDINGS FROM A TIME SERIES ANALYSIS](http://www.cla.temple.edu/cj/files/2014/09/coryrevised1.mp3)
-- [Links in Space and Time between Firearm Arrests and Shootings](http://www.cla.temple.edu/cj/files/2014/10/ResearchfindingsWyant20101.pdf)
+- [Links in Space and Time between Firearm Arrests and Shootings](https://liberalarts.temple.edu/sites/liberalarts/files/ResearchfindingsWyant2010_0.pdf)
 - [Related Publications](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Related%20Publications.pdf)
+- The Impact of Philadelphia’s Public CCTV Cameras: PRELIMINARY FINDINGS FROM A TIME SERIES ANALYSIS
