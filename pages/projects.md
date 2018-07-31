@@ -125,6 +125,8 @@ The foot patrol areas were not successful in reducing violence during the experi
 
 In sum, by focusing police efforts on the problem people associated with the problem places, police can achieve significant crime reductions while potentially avoiding negative community perceptions of their actions. However, we need additional research that more precisely measures what police officers do while in hot spots if we are to develop greater insight into why some crime reduction tactics are more successful than other ones.
 
+More details are available in a research brief [here](https://liberalarts.temple.edu/sites/liberalarts/files/Smart-policing-initiative-results-v2%20%281%29.pdf) for practitioners.
+
 _The full study is published [here](http://onlinelibrary.wiley.com/doi/10.1111/1745-9125.12055/abstract) as: Groff, E. R., Ratcliffe, J. H., Haberman, C. P., Sorg, E. T., Joyce, N. M., & Taylor, R. B. (2015). Does What Police Do At Hot Spots Matter? The Philadelphia Policing Tactics Experiment. Criminology, 53(1), 23-53._
 
 ___
