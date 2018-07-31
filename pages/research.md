@@ -328,6 +328,6 @@ The Criminal Justice Department is committed to the highest ethical standards wh
 Faculty in Criminal Justice endeavor to provide undergraduate students with ‘hands on’ class-related activities that often require them to do fieldwork or analyze data. Each faculty member is required to obtain approval from the IRB for these activities during the semester in which they are to be completed. The **IRB Approval Guide for Undergraduate Classroom Activities** document (under construction) provides details on the necessary paperwork to be filed by the faculty member. It also contains instructions for how undergraduate students should sign up and complete the undergraduate student version of the IRB training course.
 
 ## Additional Research Projects and Resources:
-- [The Impact of Philadelphia’s Public CCTV Cameras: PRELIMINARY FINDINGS FROM A TIME SERIES ANALYSIS](http://www.cla.temple.edu/cj/files/2014/09/coryrevised1.mp3)
-- [Links in Space and Time between Firearm Arrests and Shootings](http://www.cla.temple.edu/cj/files/2014/10/ResearchfindingsWyant20101.pdf)
+- The Impact of Philadelphia’s Public CCTV Cameras: PRELIMINARY FINDINGS FROM A TIME SERIES ANALYSIS
+- [Links in Space and Time between Firearm Arrests and Shootings](https://liberalarts.temple.edu/sites/liberalarts/files/ResearchfindingsWyant2010_0.pdf)
 - [Related Publications](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Related%20Publications.pdf)
