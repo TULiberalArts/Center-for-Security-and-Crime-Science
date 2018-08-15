@@ -140,7 +140,10 @@ _[Jennifer Wood](https://liberalarts.temple.edu/academics/faculty/wood-jennifer)
 ___
 
 ## Near Repeat Calculator
-A software that originates with the relatively recent discovery of the near repeat phenomenon in burglary patterns.This communicability of risk to nearby locations for a short amount of time raises the possibility that other crime types may also suffer from a near repeat spatio-temporal pattern of behavior. Learn more about the [Near Repeat Calculator](https://liberalarts.temple.edu/sites/liberalarts/files/Near%20Repeat%20Calculator.pdf) (pdf) and download for free. 
+A software that originates with the relatively recent discovery of the near repeat phenomenon in burglary patterns.This communicability of risk to nearby locations for a short amount of time raises the possibility that other crime types may also suffer from a near repeat spatio-temporal pattern of behavior. Learn more about the [Near Repeat Calculator](https://liberalarts.temple.edu/sites/liberalarts/files/Near%20Repeat%20Calculator.pdf) (pdf) and [download for free](https://github.com/TULiberalArts/Center-for-Security-and-Crime-Science/blob/master/media/SetUpNearRepeats.exe?raw=true). 
+
+- [Near Repeat Calculator Manual](https://liberalarts.temple.edu/sites/liberalarts/files/NearRepeatsManual.pdf)
+
 
 ## Additional Research Projects and Resources:
 - [Links in Space and Time between Firearm Arrests and Shootings](https://liberalarts.temple.edu/sites/liberalarts/files/ResearchfindingsWyant2010_0.pdf)
