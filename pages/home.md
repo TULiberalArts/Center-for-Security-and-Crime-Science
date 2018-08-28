@@ -9,12 +9,13 @@ description: >-
 keywords: ''
 # custom variables
 sidebar: false
+promotion-table: true
 feature: true
-feature-title: A Center Devoted to Crime Science 
+feature-title: A Center Devoted to Crime Science
 feature-image: media/CSCS Hero.JPG
 feature-body: >-
-  Crime Science takes the issue of crime one step further than traditional criminology. 
-  It seeks contributions from inter-related disciplines, including; psychology, geography, 
+  Crime Science takes the issue of crime one step further than traditional criminology.
+  It seeks contributions from inter-related disciplines, including; psychology, geography,
   public health, law and urban planning.
 ---
 ![CSCS]({{site.baseurl}}/media/resized CSCS Smart Policing.jpg){:.img-right}
@@ -26,19 +27,19 @@ Crime Science is a radical departure from old ways of thinking about the problem
 The inter-disciplinary nature of Crime Science allows the development of a coherent strategy to influence both product and building design, and to examine the social and psychological factors, which contribute to criminal activity. The result is an integrated approach to the problem of crime.
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Projects" 
-    content="Experiments and other crime and policing research studies undertaken by CJ faculty." 
-    image="" 
-    button-link="projects" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Projects"
+    content="Experiments and other crime and policing research studies undertaken by CJ faculty."
+    image=""
+    button-link="projects"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Center Focus" 
-      content="The Center is focused on the geography of Crime and Justice; and policing, security and crime prevention." 
-      image="" 
-      button-link="research" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Center Focus"
+      content="The Center is focused on the geography of Crime and Justice; and policing, security and crime prevention."
+      image=""
+      button-link="research"
       button-text="Learn More" %}
     </div>
 </div>
