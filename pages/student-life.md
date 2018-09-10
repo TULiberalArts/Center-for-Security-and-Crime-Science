@@ -1,10 +1,13 @@
 ---
-title: Student Life
+# global predefined variables
+layout: tla_page
 permalink: /student-life/
-layout: page
+published: false
+# meta-data variables
+title: Student Life
 keywords: ''
 description: >-
-published: false
+
 ---
 ## Internships
 As a Criminal Justice major, you can choose from numerous internship opportunities in the five county areas. We have an extensive list of sites from which to choose or you can suggest a site of special interest to you. Most sites are accepted if they give you the opportunity to come in contact with the criminal justice system or have an anti-violence component. You will do a certain number of hours of work per week at your site. It is an intensive experience of hands on education. You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Undergraduate%20Internships.pdf) to learn more about requirements, courses, placement and contacts.
@@ -25,8 +28,8 @@ Temple students can study abroad in almost any country around the world through 
 **NEED DESCRIPTION ABOUT THIS PROGRAM. ALL POSTS NEED TO BE SUBMITTED AS TICKETS SO THEY WILL FEED INTO THE RECENT NEWS SECTION ON THE HOMEPAGE**
 
 ## Awards and Scholarships
-The entire list of awards and scholarships for Criminal Justice majors is listed along with applications and instructions on the [College of Liberal Arts Awards and Scholarships page](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4596&field_awards_academics_class_value=All). Visit the [2017 Awards and Scholarship Recipients page](https://liberalarts.temple.edu/2017-award-and-scholarship-recipients) to see a list of the 2017 recipients. 
-** THE DEPARTMENTAL AWARDS AND SCHOLARSHIPS THAT ARE LISTED HERE http://www.cla.temple.edu/cj/undergraduate/awards-and-scholarships/ NEED TO BE UPDATED AND SUBMITTED IN A TICKET SO THEY CAN BE PLACED ON THE MAIN AWARDS AND SCHOLARSHIPS PAGE HERE https://liberalarts.temple.edu/about-us/resources/undergraduates/baccalaureate-award-nominations.** 
+The entire list of awards and scholarships for Criminal Justice majors is listed along with applications and instructions on the [College of Liberal Arts Awards and Scholarships page](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4596&field_awards_academics_class_value=All). Visit the [2017 Awards and Scholarship Recipients page](https://liberalarts.temple.edu/2017-award-and-scholarship-recipients) to see a list of the 2017 recipients.
+** THE DEPARTMENTAL AWARDS AND SCHOLARSHIPS THAT ARE LISTED HERE http://www.cla.temple.edu/cj/undergraduate/awards-and-scholarships/ NEED TO BE UPDATED AND SUBMITTED IN A TICKET SO THEY CAN BE PLACED ON THE MAIN AWARDS AND SCHOLARSHIPS PAGE HERE https://liberalarts.temple.edu/about-us/resources/undergraduates/baccalaureate-award-nominations.**
 
 ## Graduate Student Association
 Welcome incoming and prospective students!
