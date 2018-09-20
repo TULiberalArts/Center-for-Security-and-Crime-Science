@@ -26,6 +26,8 @@ Crime Science is a radical departure from old ways of thinking about the problem
 
 The inter-disciplinary nature of Crime Science allows the development of a coherent strategy to influence both product and building design, and to examine the social and psychological factors, which contribute to criminal activity. The result is an integrated approach to the problem of crime.
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Projects"
