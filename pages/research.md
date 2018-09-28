@@ -8,8 +8,7 @@ title: Research
 description: >-
 keywords: ''
 # custom variables
-sidebar: true
-sidebar_content: sidebars/research.html
+sidebar: sidebars/research.html
 ---
 ## Rehabilitation and Behavior Change
 Rehabilitation and behavior change focuses on research involving high-risk offenders and criminal behaviors that include criminal and violent offending, recidivism, delinquency, substance use, and HIV risk behaviors.
@@ -118,14 +117,14 @@ _Affiliated Faculty_: [Steven Belenko](https://liberalarts.temple.edu/academics/
 Description: The goal of the PROSPER project, a collaboration between Public Health Management Corporation (PHMC) and Temple University’s Department of Criminal Justice, is to examine the feasibility, acceptability, and efficacy of integrating Peer Recovery Specialists (PRSs) in an adult drug treatment court.  A growing body of research demonstrates that peer support can facilitate recovery and reduces health care costs, but to date the model has not been tested in criminal justice settings. This study will be the first in the U.S. to assess whether PRSs, working with the Philadelphia Treatment Court (PTC) staff and treatment providers, can help to promote retention, engagement, and ongoing recovery post-graduation. During the first project phase, focus groups and interviews will be conducted with key informants to provide insight into how PRSs can best support PTC clients.  During the second project phase, 112 newly enrolled PTC clients will be recruited and randomly assigned to either be connected with a PRS or to receive treatment-as-usual (56 per each condition), and monitored for 9 months. Key indicators such as relapse, re-arrest, and drug court completion will help determine whether clients assigned a PRS have greater program success than those in the control condition. This study will answer important questions regarding how to successfully integrate peer staff into drug courts, and provide preliminary indications of the efficacy of adding PRSs to the treatment court process.
  
 _Project Title_: **CRIME-PA: Crime Model Evaluation for Physical Activity** <br>
-_Funding Agency_: National Heart, Blood and Lung Institute (NIH) <br> 
+_Funding Agency_: National Heart, Blood and Lung Institute (NIH) <br>
 _Affiliated Faculty_: [Caterina Roman](https://liberalarts.temple.edu/academics/faculty/roman-caterina) and [Ralph Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph) (subcontractors to UCSD) <br>
 
 Description: The study evaluates a trans-disciplinary conceptual model of the relation of crime and crime-related perceptions to physical activity and other cardiovascular disease-related outcomes across the life span. Research activities include development of reliable measures of crime-related constructs that will be applicable across the life span.
 
 ___
 
-## Geography of Crime and Justice 
+## Geography of Crime and Justice
 
 _Project Title_: **Crime in and around neighborhood parks: Bad parks, bad neighborhoods, or both?** <br>
 _Affiliated Faculty_: [Elizabeth Groff](https://liberalarts.temple.edu/academics/faculty/groff-elizabeth) and [Ralph Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph) <br>
@@ -153,12 +152,12 @@ Affiliated Faculty: [Ralph B. Taylor](https://liberalarts.temple.edu/academics/f
 
 Description: This NIJ-funded study examined connections between jurisdiction-level demographic structure, land use, street networks and changing violent and property crime rates in the first decade of the 21st Century in the nine county Philadelphia Metropolitan region. Results suggest increasing spatial inequality in violent crime across the region, and impacts of large scale commercial sites on property crime rates. Implications emerge for cross-jurisdictional police cooperation.
  
-_Project Title_: **Community Criminology Crossroads** <br> 
+_Project Title_: **Community Criminology Crossroads** <br>
 _Affiliated Faculty_: [Ralph B. Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph) <br>
 
 Description: This review of almost 100 years of community patterns of crime and delinquency highlights four critical issues blocking further development in our understanding of the causes and consequences of crime and delinquency ecological patterns: temporal scaling, spatial scaling, ecological construct validation, and selection (NYU Press, 2015).
   
-_Project Title_: **Bail Prediction: Exploring the Role of Neighborhood Context in Philadelphia** <br> 
+_Project Title_: **Bail Prediction: Exploring the Role of Neighborhood Context in Philadelphia** <br>
 _Affiliated Faculty_: [E. Rely Vîlcică](https://liberalarts.temple.edu/academics/faculty/v-lcic-e-rely) <br>
 
 Description: This study (2015, Criminal Justice & Behavior) examined neighborhood effects on defendant pretrial performance. Specifically, the study looked at whether there was neighborhood-level variation in defendants’ failure-to-appear for trial and pretrial criminal conduct and explored the impact on these outcomes of neighborhood structural conditions such as socioeconomic status, stability, and racial composition. Prior bail prediction research has relied only on individual-level attributes. This paper, therefore, for the first time provided a novel perspective in recognizing the role of community context in empirical prediction of bail outcomes. The findings have important implications for bail decisionmaking policy and are relevant for the validity of the contemporary theories that emphasize the community context of crime in shaping deviant behavior.
@@ -206,7 +205,7 @@ ___
 
 _Project Title_: **Reducing Gang Violence: A Randomized Trial of Functional Family Therapy (with the University of Maryland)** <br>
 _Funding Agency_: National Institute of Justice <br>
-_Affiliated Faculty_: [Jamie Fader](https://liberalarts.temple.edu/academics/faculty/fader-jamie) and Phil Harris (retired) <br> 
+_Affiliated Faculty_: [Jamie Fader](https://liberalarts.temple.edu/academics/faculty/fader-jamie) and Phil Harris (retired) <br>
 
 Description: The research will produce knowledge about how to prevent at-risk youth from joining gangs and reduce delinquency among active gang members. It will evaluate a modification of Functional Family Therapy (FFT), a model program from the Blueprints for Healthy Youth Development initiative.  This modification, FFT-G, was developed in an earlier phase of the research. A randomized trial testing this adaptation is currently underway with funding from Smith Richardson Foundation. The long-term goal is the designation of FFT-G as a national Blueprint Model Program for a new and especially high-risk population, members of street gangs, thus providing the first known evidence-based program (EBP) for such youth. In addition to scholarly articles and presentations about the project, this research will produce a program model that is ready for broad dissemination, an existing dissemination mechanism, and a model for how public agencies can fund EBPs using existing funding streams. Given recent estimates that more than 782,000 gang members reside in the U.S., this product is expected to have a large impact on community uptake of the model.
  
@@ -214,12 +213,12 @@ Approximately 200 adjudicated males age 11-17 who reside in inner city Philadelp
  
 _Project Title_:**Gangs, Social Networks and Geography: Understanding the Factors Associated with Gang Desistance** <br>
 _Funding Agency_: Office of Juvenile Justice and Delinquency Prevention <br>
-_Affiliated Faculty_: [Caterina Roman](https://liberalarts.temple.edu/academics/faculty/roman-caterina) <br> 
+_Affiliated Faculty_: [Caterina Roman](https://liberalarts.temple.edu/academics/faculty/roman-caterina) <br>
 
 Description: This two-site study, involving collaboration between Temple University and RAND, examines the factors that influence gang disengagement and crime desistance. The research team used social network methods to collect detailed data on 225 gang youth and their social relations in the Philadelphia and the District of Columbia.
  
 _Project Title_: **The Penology of Justice for Minors in the United States and Europe: Dedicated System or Mainstream Justice?** <br>
-_Affiliated Faculty_: [E. Rely Vîlcică](https://liberalarts.temple.edu/academics/faculty/v-lcic-e-rely) <br> 
+_Affiliated Faculty_: [E. Rely Vîlcică](https://liberalarts.temple.edu/academics/faculty/v-lcic-e-rely) <br>
 
 Description: In contrast to the United States, many European countries do not have separate, specialized courts dedicated to the processing of delinquent youth. However, reform efforts there, especially in the most recent EU country members, are considering experimenting with such courts. In efforts to contribute to such discussions, this research will critically compare the merits of adopting a dedicated juvenile court system in Romania (a recent EU member) versus maintaining processing in the mainstream courts, drawing on lessons from the relatively long history of the American juvenile court.
 

@@ -8,19 +8,18 @@ title: Publications
 description: >-
 keywords: ''
 # custom variables
-sidebar: true
-sidebar_content: sidebars/publications.html  
+sidebar: sidebars/publications.html  
 ---
 ## Center Related Publications
-- Sorg, ET, Haberman, CP, Ratcliffe, JH, & Groff, ER (in press) Foot patrol in violent crime hot spots: Longitudinal impacts of deterrence and post treatment effects of displacement, _Criminology_. 
+- Sorg, ET, Haberman, CP, Ratcliffe, JH, & Groff, ER (in press) Foot patrol in violent crime hot spots: Longitudinal impacts of deterrence and post treatment effects of displacement, _Criminology_.
 Read full draft of the [article](https://liberalarts.temple.edu/sites/liberalarts/files/PFPE_long_term_full_paper.pdf)
  
 - Groff, ER, Johnson, L, Ratcliffe, JH & Wood, JD (in press) Exploring the relationship between foot and car patrol in violent crime areas, _Policing: An International Journal of Police Strategies and Management_.
 
-- Haberman, C.P., & Ratcliffe, J.H. (2012). The predictive policing challenges of near repeat armed street robbery. _Policing: A Journal of Policy and Practice_, 6(2): 151-166. 
+- Haberman, C.P., & Ratcliffe, J.H. (2012). The predictive policing challenges of near repeat armed street robbery. _Policing: A Journal of Policy and Practice_, 6(2): 151-166.
 Read a two-page summary of the [article](https://liberalarts.temple.edu/sites/liberalarts/files/NR%20armed%20street%20robbery%20summary.pdf)
  
-- Ratcliffe, JH, Taniguchi, T, Groff, E & Wood, J (2011) The Philadelphia Foot Patrol Experiment: A randomized controlled trial of police patrol effectiveness in violent crime hotspots, _Criminology_, 49(3): 795-831. 
+- Ratcliffe, JH, Taniguchi, T, Groff, E & Wood, J (2011) The Philadelphia Foot Patrol Experiment: A randomized controlled trial of police patrol effectiveness in violent crime hotspots, _Criminology_, 49(3): 795-831.
 Read a [draft](https://liberalarts.temple.edu/sites/liberalarts/files/PFPE_full_paper.pdf) of the paper
 
 - Groff, ER (in press) Exploring ‘Near’: Characterizing the Spatial Extent of Drinking Place Influence on Crime. _Australian and New Zealand Journal of Criminology_.
@@ -39,7 +38,7 @@ Read a [draft](https://liberalarts.temple.edu/sites/liberalarts/files/PFPE_full_
 
 - Ratcliffe, Jerry H., Taniguchi, Travis A., & Taylor, R. B. (2009). The crime reduction effects of public CCTV cameras: A multi-method spatial approach. _Justice Quarterly_ 26:4:746-770.
 
-## Center Related Doctoral Dissertations 
+## Center Related Doctoral Dissertations
 **Travis A. Taniguchi, PhD**<br/>
 "Policing a negotiated world: An empirical assessment of the ecological theory of policing"<br/>
 Chaired by Jerry H. Ratcliffe, May 2010<br/>

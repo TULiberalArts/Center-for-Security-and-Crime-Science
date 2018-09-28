@@ -8,8 +8,7 @@ title: Projects
 description: >-
 keywords: ''
 # custom variables
-sidebar: true
-sidebar_content: sidebars/projects.html
+sidebar: sidebars/projects.html
 ---
 ## The Philadelphia Foot Patrol Experiment
 ![Foot Patrol.JPG]({{site.baseurl}}/media/Foot Patrol.JPG){:.responsive-img .img-right}
@@ -65,7 +64,7 @@ ___
 ## The Philadelphia Predictive Policing Experiment
 ![CSCS Hero]({{site.baseurl}}/media/resized CSCS Hero.jpg){:.responsive-img .img-right}
 This ongoing project will create a free software tool that will enable police departments to use their geocoded crime data in combination with freely-available census data to create micro-spatial estimates of future criminal activity at the local block level. Working with Azavea, an innovative Philadelphia-based GIS company, Drs Ratcliffe and Taylor are developing a methodology to combine long-term risk prediction from underlying socio-demographics with event-created near-repeat risk.
-_Faculty: [Jerry Ratcliffe](https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry), [Ralph Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph)_ 
+_Faculty: [Jerry Ratcliffe](https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry), [Ralph Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph)_
 
 The Philadelphia Predictive Policing Experiment was a collaboration between Temple University’s Center for Security and Crime Science (housed in the Department of Criminal Justice) and the Philadelphia Police Department. This [National Institute of Justice](http://www.nij.gov/Pages/welcome.aspx) funded research project has been the first place-based, randomized experiment to study the impact of different police strategies on violent and property crime in predicted criminal activity areas.
 
@@ -140,7 +139,7 @@ _[Jennifer Wood](https://liberalarts.temple.edu/academics/faculty/wood-jennifer)
 ___
 
 ## Near Repeat Calculator
-A software that originates with the relatively recent discovery of the near repeat phenomenon in burglary patterns.This communicability of risk to nearby locations for a short amount of time raises the possibility that other crime types may also suffer from a near repeat spatio-temporal pattern of behavior. Learn more about the [Near Repeat Calculator](https://liberalarts.temple.edu/sites/liberalarts/files/Near%20Repeat%20Calculator.pdf) (pdf) and [download for free](https://github.com/TULiberalArts/Center-for-Security-and-Crime-Science/blob/master/media/SetUpNearRepeats.exe?raw=true). 
+A software that originates with the relatively recent discovery of the near repeat phenomenon in burglary patterns.This communicability of risk to nearby locations for a short amount of time raises the possibility that other crime types may also suffer from a near repeat spatio-temporal pattern of behavior. Learn more about the [Near Repeat Calculator](https://liberalarts.temple.edu/sites/liberalarts/files/Near%20Repeat%20Calculator.pdf) (pdf) and [download for free](https://github.com/TULiberalArts/Center-for-Security-and-Crime-Science/blob/master/media/SetUpNearRepeats.exe?raw=true).
 
 - [Near Repeat Calculator Manual](https://liberalarts.temple.edu/sites/liberalarts/files/NearRepeatsManual.pdf)
 

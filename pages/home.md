@@ -8,7 +8,6 @@ title: Home
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
 promotion-table: true
 feature: true
 feature-title: A Center Devoted to Crime Science
