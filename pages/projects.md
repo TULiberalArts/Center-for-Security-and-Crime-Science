@@ -100,7 +100,7 @@ We concluded that intercommunity structural differences in power relationships, 
 
 This research has been published [here](http://journals.sagepub.com/doi/abs/10.1177/0022427815586062) as: Taylor, R. B., Ratcliffe, J.H. and Perenzin, A. (2015) Can we predict long-term community crime problems? The estimation of ecological continuity to model risk heterogeneity. [Journal of Research in Crime and Delinquency](http://journals.sagepub.com/home/jrc) 52(5): 635-657.
 
-This [National Institute of Justice](http://www.nij.gov/Pages/welcome.aspx) funded research project is ongoing, however the software is now available as of October 2016. Please visit the following [website](https://www.hunchlab.com/tools/prove) (you will leave the Temple University site) to access the software downloader, manual, and quick start guide.
+This [National Institute of Justice](https://nij.ojp.gov/redirect-legacy/topics/forensics/pages/welcome.aspx.) funded research project is ongoing, however the software is now available as of October 2016. Please visit the following [website](https://www.hunchlab.com/tools/prove) (you will leave the Temple University site) to access the software downloader, manual, and quick start guide.
 
 ___
 
