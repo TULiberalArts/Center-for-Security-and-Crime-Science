@@ -27,20 +27,22 @@ The inter-disciplinary nature of Crime Science allows the development of a coher
 
 ___
 
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+<div class="container">
+ <div class="row">   
+  <div class="col s12 m6">{% include cards/card2-basic.html
     title="Projects"
     content="Experiments and other crime and policing research studies undertaken by CJ faculty."
     image=""
-    button-link="projects"
+    button-link="http://www.cla.temple.edu/center-for-security-and-crime-science/projects/"
     button-text="Learn More" %}
   </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
-      title="Center Focus"
-      content="The Center is focused on the geography of Crime and Justice; and policing, security and crime prevention."
-      image=""
-      button-link="research"
-      button-text="Learn More" %}
-    </div>
+<div class="container">
+ <div class="row">   
+  <div class="col s12 m6">{% include cards/card2-basic.html
+        title="Center Focus"
+        content="The Center is focused on the geography of Crime and Justice; and policing, security and crime prevention."
+        image=""
+        button-link="http://www.cla.temple.edu/center-for-security-and-crime-science/research/"
+        button-text="Learn More" %}
+      </div>
 </div>
